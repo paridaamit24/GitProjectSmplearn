@@ -1,1 +1,1 @@
-Git Final Project for Simplilearn by Ajanta DAs
+Git Final Project for Simplilearn by Amit
